@@ -10,8 +10,7 @@
    			<img  src="../images/abajo.png">
   		</div>
   		<font color="black">
-  		<h1 style="text-align:center;">Servicios</h1>
- 		<table style="background-color:white;">
+  		<table style="background-color:white;">
    			<thead>
      				<tr>
       					<th>Codigo</th>
