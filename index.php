@@ -7,7 +7,7 @@
 	</head>
  	<body style="background-color:white;">
    		<div align="center">
-   			<img  src="../images/arriba.png">
+   			<img  src="../images/abajo.png">
   		</div>
   		<font color="black">
   		<h1 style="text-align:center;">Servicios</h1>
@@ -51,7 +51,7 @@
  		</table>
 
   		<div align="center" style="background-color:white;">
-     			<img  src="../images/abajo.png">
+     			<img  src="../images/arriba.png">
    		</div>
   		</font>
  	</body>
