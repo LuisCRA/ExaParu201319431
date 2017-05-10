@@ -11,14 +11,7 @@
   		</div>
   		<font color="black">
   		<table style="background-color:white;">
-   			<thead>
-     				<tr>
-      					<th>Codigo</th>
-      					<th>Nombre</th>
-       					<th>Descripcion</th>
-      					<th>Imagen</th>
-     				<tr>
-  			</thead>
+   		
    		<?php
   			$servername = "us-cdbr-iron-east-03.cleardb.net";
   			$username = "b74ba3320e82ec";
@@ -36,7 +29,6 @@
      			// output data of each row
       			while($row = $result->fetch_assoc()) {?>
       			<tr>
-      				<td><?php echo $row['codigo_servicio']?></td>
       				<td><?php echo $row['nombre_servicio']?></td>
       				<td><?php echo $row['descripcion_servicio']?></td>
      				<td><img src="<?php echo $row['imagen_servicio']?>"></td>
